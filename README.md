@@ -20,13 +20,18 @@
 
 ###
 
-<p align="left">Actualmente estoy trabajando en el Consorci de serveis universitaris de Catalunya (CSUC) donde estoy como técnico de proyectos realizando tareas como:</p>
+<p align="left">Actualmente, desempeño el rol de técnico de proyectos en el Consorci de Serveis Universitaris de Catalunya (CSUC), donde me ocupo de las siguientes responsabilidades:</p>
 <ul>
     <li>Desarrollo y mantenimento de aplicaciones en Laravel</li>
     <li>Desarrollo y mantenimento de aplicaciones en Dspace</li>
-    <li>Desarrollo de APIs y llamadas para gestión de la información</li>
+    <li>Desarrollo de APIs y llamadas para gestión de información</li>
 </ul>
-<p align="left"></p>
+<p align="left">En 2020, trabajé en GS Gestión como desarrollador en Visual Basic 6, donde llevé a cabo las siguientes tareas:</p>
+<ul>
+    <li>Desarrollo de nuevas funcionalidades y mantenimento de la aplicación</li>
+    <li>Coordinación de reuniones con la empresa proveedora de un software adquirido </li>
+</ul>
+
 
 ###
 
