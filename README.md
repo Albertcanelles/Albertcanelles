@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Soy Albert Cañelles Panisello, graduado en Ingeniería informática y apasionado de la tecnología</p>
+<p align="left">Soy Albert Cañelles Panisello, graduado en Ingeniería informática y apasionado de la tecnología.</p>
+<p align="left">Me encanta enfrentar nuevos retos para seguir mejorando como desarrollador y como persona.</p>
+
 
 ###
 
@@ -11,6 +13,20 @@
 ###
 
 <p align="left">✨ Desarollador de aplicaciones web<br>📚 Cursando actualmente el Máster en Project Management<br>👨🏻‍🎓 Graduado en Ingeniería Informática<br>👨🏻‍🎓 Técnico superior en Desarrollo de aplicaciones multiplataforma<br>👨🏻‍🎓 Técnico superior en Administración de sistemas informáticos y redes</p>
+
+###
+
+<h2 align="left">Experiencia profesional</h2>
+
+###
+
+<p align="left">Actualmente estoy trabajando en el Consorci de serveis universitaris de Catalunya (CSUC) donde estoy como técnico de proyectos realizando tareas como:</p>
+<ul>
+    <li>Desarrollo y mantenimento de aplicaciones en Laravel</li>
+    <li>Desarrollo y mantenimento de aplicaciones en Dspace</li>
+    <li>Desarrollo de APIs y llamadas para gestión de la información</li>
+</ul>
+<p align="left"></p>
 
 ###
 
@@ -34,6 +50,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 
 ###
