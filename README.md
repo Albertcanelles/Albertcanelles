@@ -24,7 +24,7 @@
     <li>Desarrollo de nuevas funcionalidades y mantenimento de la aplicación</li>
     <li>Coordinación de reuniones con la empresa proveedora de un software adquirido </li>
 </ul>
-<p align="left">He tenido la oportunidad de concebir, diseñar y desarrollar diversas páginas y aplicaciones web de manera independiente, lo que ha implicado llevar a cabo todos los procedimientos relacionados. Desde la interacción inicial con el cliente en reuniones para comprender sus necesidades y objetivos, la creación de mockups preliminares para visualizar la estructura y el diseño, hasta la planificación y diseño de la base de datos, y finalmente, el desarrollo y la implementación de la aplicación, he asumido un papel integral en cada etapa del proyecto. </p>
+<p align="left">He tenido la oportunidad de concebir, diseñar y desarrollar diversas páginas y aplicaciones web de manera independiente, lo que ha implicado llevar a cabo todos los procedimientos relacionados. Desde la interacción inicial con el cliente en reuniones para comprender sus necesidades y objetivos, la creación de mockups preliminares para visualizar la estructura y el diseño, hasta la planificación y diseño de la base de datos, y finalmente, el desarrollo y la implementación de la aplicación, asumiendo un papel integral en cada etapa del proyecto. </p>
 
 ###
 
