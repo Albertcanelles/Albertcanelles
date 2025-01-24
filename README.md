@@ -5,7 +5,7 @@
 ###
 <p align="left">Soy Albert Cañelles Panisello, graduado en Ingeniería informática y apasionado de la tecnología.</p>
 <p align="left">Me encanta enfrentar nuevos retos para seguir mejorando como desarrollador y como persona.</p>
-<p align="left">📚 Máster en Project Management<br>👨🏻‍🎓 Graduado en Ingeniería Informática<br>👨🏻‍🎓 Técnico superior en Desarrollo de aplicaciones multiplataforma<br>👨🏻‍🎓 Técnico superior en Administración de sistemas informáticos y redes</p>
+<p align="left">👨🏻‍🎓 Máster en Project Management<br>👨🏻‍🎓 Graduado en Ingeniería Informática<br>👨🏻‍🎓 Técnico superior en Desarrollo de aplicaciones multiplataforma<br>👨🏻‍🎓 Técnico superior en Administración de sistemas informáticos y redes</p>
 
 ###
 
