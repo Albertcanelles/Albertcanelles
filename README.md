@@ -16,7 +16,6 @@
 <ul>
     <li>Jefe de proyecto.</li>
     <li>Desarrollar aplicaciones en Java Spring Boot.</li>
-    <li>Realizar la integración de datos de terceros y aplicaciones y viceversa.</li>
 </ul>
 
 <p align="left">De 2021 hasta 2023 trabajé en el Consorci de Serveis Universitaris de Catalunya (CSUC), donde realizaba las siguientes tareas:</p>
