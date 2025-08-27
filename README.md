@@ -14,7 +14,7 @@
 ###
 <p align="left">De 2024 hasta la actualidad. Trabajo en Bidea Avant donde realizo las siguientes tareas:</p>
 <ul>
-    <li>Jefe de proyecto.</li>
+    <li>Lider de proyecto.</li>
     <li>Desarrollar aplicaciones en Java Spring Boot.</li>
 </ul>
 
